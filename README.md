@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Yonghee Kim, Front-end developer. 💻✨
 
 <!--
 **yonghk423/yonghk423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
