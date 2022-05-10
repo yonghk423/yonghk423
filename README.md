@@ -1,6 +1,6 @@
 ## _Hello, I'm Yonghee Kim, Front-end developer_ 💻✨
 
-<br /> hello! I am developing based on React, and <br> recently I am also interested in Next.js and developing it.😁 
+<br /> hello!🙌🏻 I am developing based on React, and <br> recently I am also interested in Next.js and developing it.😁 
 
 <br> I exercise regularly and aim for a physically healthy life.🏋🏻‍♀️ <br> I want to become a developer that grows steadily.🏃🏻✨
 
