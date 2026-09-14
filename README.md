@@ -1,11 +1,9 @@
-## _Hello, I'm Yonghee Kim, Front-end developer_ 💻✨
+(주) 클라리파이 | 클라우드팀 연구원
+근무 기간: 2022.12.15 ~ 2026.01.16
+주요 업무: AI 분석 요청·결과 확인·관리하는 B2B SaaS 웹 포털 및 뷰어 개발
 
-<br /> hello!🙌🏻 I am developing based on React, and <br> recently I am also interested in Next.js and developing it.😁 
-
-<br> I exercise regularly and aim for a physically healthy life.🏋🏻‍♀️ <br> I want to become a developer that grows steadily.🏃🏻✨
-
-## Skiils🛠
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=HTML5&logoColor=white">
-</br> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
+React, TypeScript 기반의 프론트엔드 엔지니어로,
+브라우저의 물리적 한계에 자주 부딪히는 환경에서 일해 왔습니다. 수 GB 단위 의료 영상을 다루는 B2B 포털과 메모리·렌더링 병목을
+찾아 스트리밍·워커·캐싱 계층으로 풀어냈고, 같은 문제가 반복되지 않도록 디자인 시스템과 회귀 테스트처럼 팀이 함께 쓰는 기반을 남겼습니다. 팀의 개발
+비용과 유지보수성을 함께 고려하며 지속 가능한 구조를 만드는 것을 중요하게 생각합니다. 사용자에게 안정적인 경험을 제공하면서도 개발자가 지속적으
+로 개선할 수 있는 서비스를 만드는 프론트엔드 엔지니어를 지향합니다.
