@@ -1,5 +1,5 @@
-(주) 클라리파이 | 클라우드팀 | FE developer :
-2022.12.15 ~ 2026.01.16
+(주) 클라리파이 | 클라우드팀 | FE developer 
+(2022.12.15 ~ 2026.01.16)
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
